@@ -1,0 +1,4 @@
+#Thu Mar 14 02:13:12 BRT 2019
+base.0=/x4n/work/FTT/LP3/CODE/FTTCordovaApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
